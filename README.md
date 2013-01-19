@@ -3,7 +3,11 @@ studio-test
 
 Software Studio 2013 Test Repository
 
-## Studio Members
+## Studio Member
 
-Phil Pratt-Szeliga, pcpratts@trifort.org, rbcompiler
-triangle fortress, pcpratts@trifort.org, trifort
+Shawn Mueller, smueller@syr.edu, smueller1
+Aaron Dodds  , amdodds@syr.edu , amd86 
+Sheng Wang, newton449@gmail.com, newton449
+Qazi Sameer Ahmed, qaahmed@syr.edu, qsahmed
+Haiyang Pan , dlut.phy@gmail.com, hapan
+Shuang Li, maomaogouzzz@gmail.com, maomaogou  

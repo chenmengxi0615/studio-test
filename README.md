@@ -12,3 +12,4 @@ Qazi Sameer Ahmed, qaahmed@syr.edu, qsahmed
 Haiyang Pan , dlut.phy@gmail.com, hapan
 Shuang Li, maomaogouzzz@gmail.com, maomaogou  
 Xiaoyu Yao   , xyyao65@gmail.com, fybirds09  
+Chen Qian    , cqian@syr.edu   , NonSleep

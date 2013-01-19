@@ -14,4 +14,3 @@ Jianzhang Ma, jma18@syr.edu, zoltinma
 Shuang Li, maomaogouzzz@gmail.com, maomaogou  
 Xiaoyu Yao   , xyyao65@gmail.com, fybirds09  
 Chen Qian    , cqian@syr.edu   , NonSleep  
->>>>>>> 06b7b71c90a6f162a90059d184ffa1a459fe1fe3

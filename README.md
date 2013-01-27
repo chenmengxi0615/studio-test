@@ -14,4 +14,6 @@ Xiaochong Zhang, xzhang53@syr.edu, xiaochong
 Shuang Li, maomaogouzzz@gmail.com, maomaogou  
 Xiaoyu Yao   , xyyao65@gmail.com, fybirds09  
 Chen Qian    , cqian@syr.edu   , NonSleep  
+Fei Qi, qifei1989@126.com, FeiQi  
+
 

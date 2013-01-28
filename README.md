@@ -13,5 +13,6 @@ Haiyang Pan , dlut.phy@gmail.com, hapan
 Xiaochong Zhang, xzhang53@syr.edu, xiaochong
 Shuang Li, maomaogouzzz@gmail.com, maomaogou  
 Xiaoyu Yao   , xyyao65@gmail.com, fybirds09  
-Chen Qian    , cqian@syr.edu   , NonSleep  
+Chen Qian    , cqian@syr.edu   , NonSleep
+Xirui Wang  ,  xwang74@syr.edu , wxr1316   
 

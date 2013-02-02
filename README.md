@@ -15,3 +15,4 @@ Xiaoyu Yao   , xyyao65@gmail.com, fybirds09
 Chen Qian    , cqian@syr.edu   , NonSleep  
 Fei Qi, qifei1989@126.com, FeiQi  
 Xirui Wang  ,  xwang74@syr.edu , wxr1316   
+Mengxi Chen ,  mchen40@syr.edu , chenmengxi0615
